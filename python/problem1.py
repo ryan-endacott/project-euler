@@ -6,7 +6,7 @@ sum = 0
 for i in range(MAX):
 	if i % 3 == 0:
 		sum += i
-	eilf i % 5 == 0:
+        elif i % 5 == 0:
 		sum += i
 
 print sum
