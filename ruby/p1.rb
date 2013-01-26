@@ -1,3 +1,5 @@
+#Ruby is cool!  I didn't like it at first, but I'm warming up to it.
+
 sum = 0
 
 (1..999).each do |num|
